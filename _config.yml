@@ -1,13 +1,13 @@
 # Site settings
-title: Clean Blog
+title: Steven R. Young PhD
 header-img: img/home-bg.jpg
-email: your-email@yourdomain.com
-description: "Write your site description here. It will be used as your sites meta description as well!"
-baseurl: "/startbootstrap-clean-blog-jekyll"
-url: "http://yourdomain.com"
-twitter_username: SBootstrap
-github_username:  davidtmiller
-facebook_username:  IronSummitMedia
+email: stevenryoung@gmail.com
+description: "Personal website of Steven R. Young PhD."
+baseurl: ""
+url: "http://stevenryoung.com"
+twitter_username: stevenryoungphd
+github_username: stevenryoung
+#facebook_username:  IronSummitMedia
 
 # Build settings
 markdown: kramdown
