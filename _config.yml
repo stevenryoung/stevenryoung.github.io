@@ -16,6 +16,6 @@ highlighter: pygments
 permalink: pretty
 paginate_path: "blog/page:num/"
 paginate: 5
-exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md","CNAME"]
 
 pages_list: {'CV':'/cv/', 'Blog':'/blog/', 'Contact': '/contact/'}
