@@ -89,6 +89,8 @@ GPA: 3.88
     - James L. Howard Scholarship (2005-2006)
 
 # Organizations
+- International Joint Conference on Neural Networks (IJCNN)
+    - Reviewer (2015)
 - Eta Kappa Nu – Beta Phi Chapter
     - Vice President (2009-2010)
     - Corresponding Secretary (2010-2012)
