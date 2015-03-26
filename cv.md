@@ -54,7 +54,7 @@ GPA: 3.88
 
 #### Teaching Assistant  
 - Taught lab for freshman level computer science course  
-- Developed new lab assignments to replace assignments previously taught using outdated software.
+- Developed new lab assignments to replace assignments previously taught using outdated software
 
 ### ORNL - Computational Data Analytics, Oak Ridge, TN (July 2009 – Aug. 2009, May 2010 – Aug. 2010, May 2011 - Aug. 2011)  
 
