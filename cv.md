@@ -88,9 +88,13 @@ GPA: 3.88
     - Alumni Valedictorian Scholarship (2005-2007)
     - James L. Howard Scholarship (2005-2006)
 
-# Organizations
+# Professional Service
+- Machine Learning in High-Performance Computing Environments (SC Workshop)
+    - Program Committee (2015)
 - International Joint Conference on Neural Networks (IJCNN)
     - Reviewer (2015)
+
+# Professional Organizations
 - Eta Kappa Nu – Beta Phi Chapter
     - Vice President (2009-2010)
     - Corresponding Secretary (2010-2012)
