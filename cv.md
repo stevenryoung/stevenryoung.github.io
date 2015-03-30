@@ -89,7 +89,7 @@ GPA: 3.88
     - James L. Howard Scholarship (2005-2006)
 
 # Professional Service
-- Machine Learning in High-Performance Computing Environments (SC Workshop)
+- Machine Learning in HPC Environments (SC Workshop)
     - Program Committee (2015)
 - International Joint Conference on Neural Networks (IJCNN)
     - Reviewer (2015)
