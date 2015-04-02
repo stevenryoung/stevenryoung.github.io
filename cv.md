@@ -60,7 +60,7 @@ GPA: 3.88
 
 #### Intern  
 - Implemented MS SharePoint text mining tool that has been licensed to a private company 
-- Raptor: An Enterprise Knowledge Discovery Engine (Version 2.0)
+    - Raptor: An Enterprise Knowledge Discovery Engine (Version 2.0)
 - Met with sponsors to discuss project requirements
 - Became proficient in C#, Java, and MS SQL
 
