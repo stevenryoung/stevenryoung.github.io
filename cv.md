@@ -74,8 +74,8 @@ GPA: 3.88
 ### Honeywell Aerospace, Clearwater, FL (Jan. 2007 – May 2007)  
 
 #### Co-op  
-- Ran/Built simulations in Matlab and Simulink
-- Helped rewrite/modify process for testing a product 
+- Built simulations in Matlab and Simulink
+- Modified process for testing a product 
 
 # Honors
 - Oak Ridge National Laboratory
