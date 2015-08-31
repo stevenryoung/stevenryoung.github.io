@@ -95,6 +95,7 @@ GPA: 3.88
     - Reviewer (2015)
 
 # Professional Organizations
+- ACM - Member
 - Eta Kappa Nu – Beta Phi Chapter
     - Vice President (2009-2010)
     - Corresponding Secretary (2010-2012)
