@@ -92,7 +92,7 @@ GPA: 3.88
 - Machine Learning in HPC Environments (SC Workshop)
     - Program Committee (2015)
 - International Joint Conference on Neural Networks (IJCNN)
-    - Reviewer (2015)
+    - Reviewer (2015-2016)
 
 # Professional Organizations
 - ACM - Member
