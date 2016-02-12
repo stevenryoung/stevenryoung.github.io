@@ -13,6 +13,7 @@ Data Analytics, Deep Learning, Computer Vision, Knowledge Discovery, Text Analys
 High Performance Computing, GPU Programming.
 
 # Selected Publications
+[[Bibtex]](/content/citations.bib)
 * **S. Young**, D. Rose, T. Karnowski, S. Lim, R. Patton, *"Optimizing deep learning hyper-parameters through an evolutionary algorithm,"* Proceedings of the Workshop on Machine Learning in High-Performance Computing Environments, 2015.
 * J. Holleman, I. Arel, **S. Young**, J. Lu, *"Analog inference circuits for deep learning,"* in Biomedical Circuits and Systems Conference (BioCAS), 2015 IEEE , vol., no., pp.1-4, 22-24 Oct. 2015.
 * J. Lu, **S. Young**, I. Arel, and J. Holleman, *“A 1 tops/w analog deep machine-learning engine with floating-gate storage in 0.13 μm cmos,”* IEEE Journal of Solid-State Circuits, vol. 50, no. 1, pp. 270--281, 2015.
