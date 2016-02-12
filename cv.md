@@ -12,7 +12,7 @@ Research and development of machine learning techniques for large datasets.
 Data Analytics, Deep Learning, Computer Vision, Knowledge Discovery, Text Analysis,
 High Performance Computing, GPU Programming.
 
-# Selected Publications <font size="12" color="blue">[[Bibtex]](/content/citations.bib)</font>
+# Selected Publications <a href="/content/citations.bib">[Bibtex]</a>
 
 * **S. Young**, D. Rose, T. Karnowski, S. Lim, R. Patton, *"Optimizing deep learning hyper-parameters through an evolutionary algorithm,"* Proceedings of the Workshop on Machine Learning in High-Performance Computing Environments, 2015.
 * J. Holleman, I. Arel, **S. Young**, J. Lu, *"Analog inference circuits for deep learning,"* in Biomedical Circuits and Systems Conference (BioCAS), 2015 IEEE , vol., no., pp.1-4, 22-24 Oct. 2015.
