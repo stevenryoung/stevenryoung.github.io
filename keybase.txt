@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/stevenryoung
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://www.stevenryoung.com
+  * I am stevenryoung (https://keybase.io/stevenryoung) on keybase.
+  * I have a public key with fingerprint 98A4 C16E F12D E622 4B5E  6011 C684 B7AA BD98 C96A
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "01016abe364941911e688c14b58731a827152db77f4ed53dd3948cdcee09ba22dbc90a",
+            "fingerprint": "98a4c16ef12de6224b5e6011c684b7aabd98c96a",
+            "host": "keybase.io",
+            "key_id": "c684b7aabd98c96a",
+            "kid": "01016abe364941911e688c14b58731a827152db77f4ed53dd3948cdcee09ba22dbc90a",
+            "uid": "c87e2d06473b96fb82a9fc3018731419",
+            "username": "stevenryoung"
+        },
+        "service": {
+            "hostname": "www.stevenryoung.com",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1467058822,
+    "expire_in": 157680000,
+    "prev": "cf7bf8ba080ccc96bf3e7e526070e46782d065f75ab80eb21b59e3fe794967e8",
+    "seqno": 2,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.53
+Comment: https://keybase.io/crypto
+
+yMIpAnicrZJdSBRRFMdHXTUlQzDIICUmJaLFZmbn485G5Rb2UsJqWCriNnfmjo66
+M/sxu2pq5AcqkbERJYmFShkRWNRDICVqYZ+wb0JIXxqVIZltRERgd8yghx67L5d7
+z//8zvkfzoO0BCI1rqBGSQaR8YdxTyeGQsQR/8nOJhIaSiPpbCJr0cqF6hQUND21
+mkI6SYqmaF6CyMGzIkuLNI14AGSahRwQHLQEGIHmGAUKgsoihXMoikNkgazICFEi
+lBgckkVKIu2kqulVKOALaLqJsSKQWJnmkUozCuIZBvMQT9G0zAMWCpIEFRHIIm8l
+VhtBKwM3B6UgytMM/IcfnpX2/qH/z32HftcBAmIUimcFBxR5FQJGElXZQdEWDfMt
+YRAFdMmLsDpoojDSA41GSK8iW+wkjoQ1GVnDtdysqurr6/P+VubJhhdzfAHDNGSj
+DiuqTdPntABmo28lA0HPKssDNV3BI8UJYRQIaoZOOmmslE3NgtMsL1AcAAxjJ1GD
+Twsgj2YpOIEHFD5WGRS2jKkCVAGUKEDJMp4gVB1IQBzDUwKFMARYrjlV4CQIKAQZ
+GnIicqhIEFmRFxAgLXd+3SCduJIpVVnutSpdMkMBRLZMjlfYiLhUIikx3lo1IjUl
+/c8C7ihNXt7XRYyc7rhwac2NvlnXlcVIUtur/LFdPDdZ3PPMfvv9wbm7bQWbDw+O
+HQsfrbHtrDwLY9UZFdGt7gHCPRGKb251T6eYr10LxkB/R9nw8Zn2ZHm00DWYcSjS
+RX3rS48MEUPzBPPdP6911W7rLp+a3H2+L5H5vBRdt+h2xWzNXeNCTm6nml2wITy9
+bIvK5SOFb2/6CvsTZhYvnyvZdHG2d/+73o8vpu7nU9fvuEq87U9OdMcee4uuZmdm
+rdcOcB/KP21v/rLw41b8aMPLyszq1jdmjnchuPFM6b2skeHZpVNcbHDhuftnpLes
+Z6Bo78C1R9HitXt8/swto19z05Lq5n4BHM1FIw==
+=asL3
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/stevenryoung
+
+==================================================================
