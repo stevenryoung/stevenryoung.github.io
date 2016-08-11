@@ -15,7 +15,7 @@ future: false
 
 # Build settings
 markdown: kramdown
-highlighter: rogue
+highlighter: rouge
 permalink: pretty
 paginate_path: "blog/page:num/"
 paginate: 5
