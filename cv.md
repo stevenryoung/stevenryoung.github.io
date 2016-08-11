@@ -93,7 +93,7 @@ GPA: 3.88
 
 # Professional Service
 - Machine Learning in HPC Environments (SC Workshop)
-    - Program Committee (2015)
+    - Program Committee Chair (2015-2016)
 - International Joint Conference on Neural Networks (IJCNN)
     - Reviewer (2015-2016)
 
