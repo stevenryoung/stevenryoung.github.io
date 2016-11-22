@@ -1,3 +1,3 @@
-#Clean Blog by Start Bootstrap - Jekyll Version
+#Source for stevenryoung.com
 
 Feel free to use this as a base for your project.
