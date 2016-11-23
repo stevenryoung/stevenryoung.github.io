@@ -41,11 +41,17 @@ GPA: 3.88
 
 # Experience
 
-### ORNL - Computational Data Analytics, Oak Ridge, TN (Dec. 2014 - Present)  
+### ORNL - Computational Data Analytics, Oak Ridge, TN (Dec. 2016 - Present)  
+
+#### Research Scientist
+- Developing methods for utlizing HPC for training deep networks for large science datasets
+- Deveoping approaches for applying deep learning to datasets with very few labeled examples.
+
+### ORNL - Computational Data Analytics, Oak Ridge, TN (Dec. 2014 - Nov. 2016)  
 
 #### Postdoctoral Research Associate
-- Developing unsupervised machine learning techniques for analysis of cyber security data
-- Researching deep learning techniques for large scale datasets
+- Developed unsupervised machine learning techniques for analysis of cyber security data
+- Developed deep learning techniques for large scale datasets
 
 ### Machine Intelligence Lab, Knoxville, TN (Nov. 2008 – Dec. 2014)  
 
