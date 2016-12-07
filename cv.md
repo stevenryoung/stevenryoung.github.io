@@ -89,6 +89,7 @@ GPA: 3.88
 
 # Honors
 - Oak Ridge National Laboratory
+    - Technology Commercialization Award (December 2016)
     - Technology Commercialization Award (December 2014)
 - University of Tennessee
     - Outstanding GTA - EECS Department (2012-2013)
