@@ -46,7 +46,7 @@ GPA: 3.88
 
 #### Research Scientist
 - Developing methods for utlizing HPC for training deep networks for large science datasets
-- Deveoping approaches for applying deep learning to datasets with very few labeled examples.
+- Developing approaches for applying deep learning to datasets with very few labeled examples.
 
 ### ORNL - Computational Data Analytics, Oak Ridge, TN (Dec. 2014 - Nov. 2016)  
 
