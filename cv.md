@@ -69,7 +69,7 @@ GPA: 3.88
 ### ORNL - Computational Data Analytics, Oak Ridge, TN (July 2009 – Aug. 2009, May 2010 – Aug. 2010, May 2011 - Aug. 2011)  
 
 #### Intern  
-- Implemented MS SharePoint text mining tool that has been licensed to a third party 
+- Implemented MS SharePoint text mining tool that has been commercially licensed
     - Raptor: An Enterprise Knowledge Discovery Engine (Version 2.0)
 - Met with sponsors to discuss project requirements
 - Became proficient in C#, Java, and MS SQL
