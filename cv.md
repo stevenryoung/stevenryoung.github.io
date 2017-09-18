@@ -13,6 +13,7 @@ Data Analytics, Deep Learning, Computer Vision, Knowledge Discovery, Text Analys
 High Performance Computing, GPU Programming.
 
 # Selected Publications <a size="8" color="#0000EE" href="/content/citations.bib">[Bibtex]</a>
+* A. Terwilliger, G. Perdue, D. Isele, R. Patton, **S. Young**, *"Vertex reconstruction of neutrino interactions using deep learning,"* Proceedings of the International Joint Conference on Neural Networks (IJCNN), May 2017.
 * T. Potok, C. Schuman, **S. Young**, R. Patton, F. Spedalieri, J. Liu, K. Yao, G. Rose, G. Chakma, *"A study of complex deep learning networks on high performance, neuromorphic, and quantum computers,"* Proceedings of the Workshop on Machine Learning in High Performance Computing Environments, Supercomputing, 2016.
 * S. Lim, **S. Young**, R. Patton, *"An analysis of image storage systems for scalable training of deep neural networks,"* The Seventh workshop on Big Data Benchmarks, Performance Optimization, and Emerging Hardware (in conjunction with ASPLOS'16), 2016.
 * **S. Young**, D. Rose, T. Karnowski, S. Lim, R. Patton, *"Optimizing deep learning hyper-parameters through an evolutionary algorithm,"* Proceedings of the Workshop on Machine Learning in High-Performance Computing Environments, Supercomputing, 2015.
