@@ -47,7 +47,13 @@ GPA: 3.88
 
 #### Research Scientist
 - Developing methods for utlizing HPC for training deep networks for large science datasets
-- Developing approaches for applying deep learning to datasets with very few labeled examples.
+- Developing approaches for applying deep learning to datasets with very few labeled examples
+
+### University of Tennessee - Bredesen Center, Knoxville, TN (Jan. 2018 - Present)
+
+#### Adjunct Professor
+- Teaching course on data science, machine learning, and computing
+- Providing input for the admissions process for the Data Science and Engineering program
 
 ### ORNL - Computational Data Analytics, Oak Ridge, TN (Dec. 2014 - Nov. 2016)  
 
@@ -102,7 +108,10 @@ GPA: 3.88
 
 # Professional Service
 - Machine Learning in HPC Environments (SC Workshop)
+    - Organizing Committe Chair (2017)
     - Program Committee Chair (2015-2016)
+- IEEE Transactions on Neural Networks and Learning Systems
+    - Reviewer (2017)
 - International Joint Conference on Neural Networks (IJCNN)
     - Reviewer (2015-2016)
 
