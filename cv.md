@@ -51,7 +51,7 @@ GPA: 3.88
 
 ### University of Tennessee - Bredesen Center, Knoxville, TN (Jan. 2018 - Present)
 
-#### Adjunct Professor
+#### Joint Faculty
 - Teaching course on data science, machine learning, and computing
 - Providing input for the admissions process for the Data Science and Engineering program
 
