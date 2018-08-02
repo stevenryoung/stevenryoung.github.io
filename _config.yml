@@ -21,4 +21,4 @@ paginate_path: "blog/page:num/"
 paginate: 5
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md","CNAME"]
 
-pages_list: {'CV':'/cv/', 'Blog':'/blog/', 'Contact': '/contact/'}
+pages_list: {'CV':'/cv/', 'Blog':'/blog/', 'Students':'/students/', 'Contact': '/contact/'}
