@@ -43,3 +43,8 @@ header-img: "img/about-bg-blue.jpg"
 - Allison Cabo - Summer 2015 - Bachelors Student - Allegheny College
     - Topic: Time Similarity Metric for Cyber Data (Co-mentored with Justin Beaver)
     - Current: Data scientist for U.S. Government
+
+# High School Students
+- Katie Nuchols - Summer 2018 - Clinton High School (Anderson County, TN)
+    - Topic: Machine Learning Analysis of Summit Supercomputing Benchmark Data
+    - Current: Senior at Clinton High School
