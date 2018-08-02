@@ -12,8 +12,8 @@ header-img: "img/about-bg-blue.jpg"
 - [Fan Chen](https://cei.pratt.duke.edu/people/fan-chen) - Summer 2018 - PhD Student - Duke University
     - Topic: Efficient Computation for Generative Adeversarial Models (Co-mentored w/ Catherine Schuman)
     - Current: PhD Student at Duke University
-- [Linghao Song](https://cei.pratt.duke.edu/people/fan-chen) - Summer 2018 - PhD Student - Duke University
-    - Topic: Efficient Computation for Generative Adeversarial Models (Co-mentored w/ Catherine Schuman)
+- [Linghao Song](https://cei.pratt.duke.edu/people/linghao-song) - Summer 2018 - PhD Student - Duke University
+    - Topic: Improved Deep Learning Architectures for Neutrino Vertex Reconstruction (Co-mentored w/ Catherine Schuman)
     - Current: PhD Student at Duke University
 - [Jeremy Liu](http://www-scf.usc.edu/~jeremyjl/) - Summer 2017 - PhD Student - University of Southern California
     - Topic: Boltzmann Machines on D-Wave (Co-mentored w/ Thomas Potok)
