@@ -5,7 +5,7 @@ description: "Students"
 header-img: "img/about-bg-blue.jpg"
 ---
 # Bredesen Center PhD Students
-- Emily Herron
+- [Emily Herron](https://www.linkedin.com/in/emily-herron-623b43aa/)
     - Topic: Machine Learning and High Performance Computing
 
 # PhD Summer Students
@@ -23,7 +23,7 @@ header-img: "img/about-bg-blue.jpg"
     - Current: Research Scientist at Honda Research Institute USA, Inc.
 
 # Undergraduate Summer Students
-- Emily Herron - Summer 2018 - Post-Bachelors Student - Mercer University
+- [Emily Herron](https://www.linkedin.com/in/emily-herron-623b43aa/) - Summer 2018 - Post-Bachelors Student - Mercer University
     - Topic: Machine Learning for Information Extraction from Scholarly Publicaitons
     - Current: PhD Student in University of Tennessee Bredesen Center Data Science and Engineering Program
 - [Aiden Rutter](https://www.linkedin.com/in/aiden-rutter) - Summer 2018 - Bachelors Student - University of Tennessee
@@ -40,7 +40,7 @@ header-img: "img/about-bg-blue.jpg"
 - [Adam Terwilliger](http://cvlab.cse.msu.edu/pages/people.html) - Summer 2016 - Bachelors Student - Grand Valley State University
     - Topic: Deep Learning Applied to Neutrino Detector Data
     - Current: PhD Student - Michigan State University
-- Allison Cabo - Summer 2015 - Bachelors Student - Allegheny College
+- [Allison Cabo](https://www.linkedin.com/in/allison-cabo-23b73a78/) - Summer 2015 - Bachelors Student - Allegheny College
     - Topic: Time Similarity Metric for Cyber Data (Co-mentored with Justin Beaver)
     - Current: Data scientist for U.S. Government
 
