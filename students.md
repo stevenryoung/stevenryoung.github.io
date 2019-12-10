@@ -37,7 +37,7 @@ header-img: "img/about-bg-blue.jpg"
 - [Parker Mitchell](https://parker.mmtechonline.com/personal_site/) - Summer 2017 - Bachelors Student - University of Tennessee
     - Topic: Deep learning on FPGAs (Co-mentored w/ Catherine Schuman)
     - Current: Neuromorphic Researcher at ORNL
-- [Adam Terwilliger](http://cvlab.cse.msu.edu/pages/people.html) - Summer 2016 - Bachelors Student - Grand Valley State University
+- [Adam Terwilliger](https://www.linkedin.com/in/adamterwilliger/) - Summer 2016 - Bachelors Student - Grand Valley State University
     - Topic: Deep Learning Applied to Neutrino Detector Data
     - Current: PhD Student - Michigan State University
 - [Allison Cabo](https://www.linkedin.com/in/allison-cabo-23b73a78/) - Summer 2015 - Bachelors Student - Allegheny College
