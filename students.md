@@ -20,7 +20,7 @@ header-img: "img/about-bg-blue.jpg"
     - Current: PhD Student at USC
 - [David Isele](https://www.grasp.upenn.edu/people/david-isele) - Summer 2016 - PhD Student - University of Pennsylvania 
     - Topic: Deep learning on Titan (Co-mentored w/ Robert Patton)
-    - Current: PhD Student
+    - Current: Research Scientist at Honda Research Institute USA, Inc.
 
 # Undergraduate Summer Students
 - Emily Herron - Summer 2018 - Post-Bachelors Student - Mercer University
@@ -36,7 +36,7 @@ header-img: "img/about-bg-blue.jpg"
     - Current: Software Engineer
 - [Parker Mitchell](https://parker.mmtechonline.com/personal_site/) - Summer 2017 - Bachelors Student - University of Tennessee
     - Topic: Deep learning on FPGAs (Co-mentored w/ Catherine Schuman)
-    - Current: MS Student at University of Tennessee
+    - Current: Neuromorphic Researcher at ORNL
 - [Adam Terwilliger](http://cvlab.cse.msu.edu/pages/people.html) - Summer 2016 - Bachelors Student - Grand Valley State University
     - Topic: Deep Learning Applied to Neutrino Detector Data
     - Current: PhD Student - Michigan State University
@@ -47,4 +47,4 @@ header-img: "img/about-bg-blue.jpg"
 # High School Students
 - Katie Nuchols - Summer 2018 - Clinton High School (Anderson County, TN)
     - Topic: Machine Learning Analysis of Summit Supercomputing Benchmark Data
-    - Current: Senior at Clinton High School
+    - Current: BS Student at University of Tennessee
