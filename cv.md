@@ -130,13 +130,26 @@ GPA: 3.88
     - James L. Howard Scholarship (2005-2006)
 
 # Professional Service
-- Machine Learning in HPC Environments (SC Workshop)
-    - Organizing Committe Chair (2017-2018)
-    - Program Committee Chair (2015-2016)
-- IEEE Transactions on Neural Networks and Learning Systems
-    - Reviewer (2017)
+- Frontiers in Big Data: Big Data and AI in High Energy Physics
+    -Associate Editor (2019 – Present)
+- Machine Learning in HPC Environments (Supercomputing Workshop)
+    - Program Committee (2019 – Present)
+    - Organizing Chair (2017 – 2018)
+    - Program Chair (2015 – 2016)
+- OLCF Director’s Discretion Projects
+    - Proposal Reviewer - Deep Learning Proposals (2017 – Present)
+- AAAI Conference on Artificial Intelligence
+    - Program Committee (2020)
+- High Performance Machine Learning Workshop
+    - Workshop Committee (2019)
+- ACM Journal on Emerging Technologies in Computing Systems (JETC)
+    - Reviewer (2018)
+- IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
+    - Reviewer (2017 - 2020)
 - International Joint Conference on Neural Networks (IJCNN)
-    - Reviewer (2015-2016)
+    - Reviewer (2015 – 2016)
+- DOE ASCR Cyber Security Workshop
+    - Workshop Participant - Knowledge and Analytics Topic (2015)
 
 # Professional Organizations
 - ACM - Member
