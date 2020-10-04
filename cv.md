@@ -6,7 +6,7 @@ header-img: "img/about-bg-blue.jpg"
 ---
 
 # Objective
-Research and development of machine learning techniques for large datasets.
+Research and development of novel machine learning techniques for novel applications.
 
 # Fields of Interest
 Data Analytics, Deep Learning, Computer Vision, Knowledge Discovery, Text Analysis,
