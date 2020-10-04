@@ -46,5 +46,5 @@ header-img: "img/about-bg-blue.jpg"
 
 # High School Students
 - Katie Nuchols - Summer 2018 - Clinton High School (Anderson County, TN)
-    - Topic: Machine Learning Analysis of Summit Supercomputing Benchmark Data
+    - Topic: Machine Learning Analysis of Summit Supercomputing Benchmark Data (Co-mentored with Catherine Schuman)
     - Current: BS Student at University of Tennessee
