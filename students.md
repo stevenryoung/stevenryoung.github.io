@@ -7,6 +7,7 @@ header-img: "img/about-bg-blue.jpg"
 # Bredesen Center PhD Students
 - [Emily Herron](https://www.linkedin.com/in/emily-herron-623b43aa/)
     - Topic: Ensembles of NAS Dervived Neural Networks
+    
 # PhD Summer Students
 - [Fan Chen](https://cei.pratt.duke.edu/people/fan-chen) - Summer 2018 - PhD Student - Duke University
     - Topic: Efficient Computation for Generative Adeversarial Models (Co-mentored w/ Catherine Schuman)
