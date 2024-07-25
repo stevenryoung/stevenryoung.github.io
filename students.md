@@ -4,7 +4,7 @@ title: Students
 description: "Students"
 header-img: "img/about-bg-blue.jpg"
 ---
-# Bredesen Center PhD Students
+# Bredesen Center PhD Students - Graduated 2023
 - [Emily Herron](https://www.linkedin.com/in/emily-herron-623b43aa/)
     - Topic: [Generalized Differentiable Neural Architecture Search with Performance and Stability Improvements](https://trace.tennessee.edu/utk_graddiss/9174/)
     - Current: Postdoctoral Research Associate at ORNL/Analytics & AI Methods at Scale Group
