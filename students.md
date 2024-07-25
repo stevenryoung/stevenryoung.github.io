@@ -6,7 +6,8 @@ header-img: "img/about-bg-blue.jpg"
 ---
 # Bredesen Center PhD Students
 - [Emily Herron](https://www.linkedin.com/in/emily-herron-623b43aa/)
-    - Topic: Ensembles of NAS Dervived Neural Networks
+    - Topic: [Generalized Differentiable Neural Architecture Search with Performance and Stability Improvements](https://trace.tennessee.edu/utk_graddiss/9174/)
+    - Current: Postdoctoral Research Associate at ORNL/Analytics & AI Methods at Scale Group
     
 # PhD Summer Students
 - [Fan Chen](https://cei.pratt.duke.edu/people/fan-chen) - Summer 2018 - PhD Student - Duke University
@@ -23,6 +24,12 @@ header-img: "img/about-bg-blue.jpg"
     - Current: Research Scientist at Honda Research Institute USA, Inc.
 
 # Undergraduate Summer Students
+- [Austin Oliver](https://www.linkedin.com/in/austinwoliver/) - Summer 2024 - Tennessee Tech University
+    - Topic: Training Neural Networks for Adversarial Robustness
+    - Current: Undergraduate at Tennessee Tech University 
+- Jessica Mohr -  Summer 2023 - Maryville College
+    - Topic: Effects of Adversarial Attacks on Deep Learning Models
+    - Current: Undergraduate at Maryville College
 - [Emily Herron](https://www.linkedin.com/in/emily-herron-623b43aa/) - Summer 2018 - Post-Bachelors Student - Mercer University
     - Topic: Machine Learning for Information Extraction from Scholarly Publicaitons
     - Current: PhD Student in University of Tennessee Bredesen Center Data Science and Engineering Program
@@ -45,6 +52,10 @@ header-img: "img/about-bg-blue.jpg"
     - Current: Data scientist for U.S. Government
 
 # High School Students
+- [Vivaan Singhvi](https://www.linkedin.com/in/vivaan-singhvi-02525027a) - Summer 2024 - Farragut High School (Knox County, TN)
+    - Topic: Adversarial Image Detection
+    - Current: BS Student at University of Michigan  
 - Katie Nuchols - Summer 2018 - Clinton High School (Anderson County, TN)
     - Topic: Machine Learning Analysis of Summit Supercomputing Benchmark Data (Co-mentored with Catherine Schuman)
     - Current: BS Student at University of Tennessee
+
