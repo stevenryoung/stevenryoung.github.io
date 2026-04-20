@@ -18,15 +18,21 @@ header-img: "img/about-bg-blue.jpg"
     - Current: Assistant Professor at Yale University
 - [Jeremy Liu](https://www.linkedin.com/in/jeremyjingliu/) - Summer 2017 - PhD Student - University of Southern California
     - Topic: Boltzmann Machines on D-Wave (Co-mentored w/ Thomas Potok)
-    - Current: Senior Machine Learning Engineer
+    - Current: Senior Vice President at AlixPartners
 - [David Isele](https://www.grasp.upenn.edu/people/david-isele) - Summer 2016 - PhD Student - University of Pennsylvania 
     - Topic: Deep learning on Titan (Co-mentored w/ Robert Patton)
     - Current: Research Scientist at Honda Research Institute USA, Inc.
 
 # Undergraduate Summer Students
-- [Austin Oliver](https://www.linkedin.com/in/austinwoliver/) - Summer 2024 - Tennessee Tech University
-    - Topic: Training Neural Networks for Adversarial Robustness
-    - Current: Undergraduate at Tennessee Tech University 
+- [Nikitha Rajagopalan](https://www.linkedin.com/in/nikitha-rajagopalan-ba85b6324/) - Summer 2026 - Florida State University
+    - Topic: Adversarial AI Robustness
+    - Current: Undergraduate at Florida State University
+- [Vivaan Singhvi](https://www.linkedin.com/in/vivaan-singhvi-02525027a/) - Summer 2025 - University of Michigan
+    - Topic: Neural Rendering Techniques for Adversarial Patches
+    - Current: Undergraduate at University of Michigan
+- [Josef Dosch](https://www.linkedin.com/in/josef-p-dosch/) - Summer 2025 - University of Tennessee
+    - Topic: Improved Adversarial Detection
+    - Current: Undergraduate at University of Tennessee
 - Jessica Mohr -  Summer 2023 - Maryville College
     - Topic: Effects of Adversarial Attacks on Deep Learning Models
     - Current: Undergraduate at Maryville College
@@ -36,7 +42,7 @@ header-img: "img/about-bg-blue.jpg"
 - [Aiden Rutter](https://www.linkedin.com/in/aiden-rutter) - Summer 2018 - Bachelors Student - University of Tennessee
     - Topic: Recurrent Deep Learning Models for Digital Communication
     - Current: Software Developer at Epic
-- Albert Xue - Summer 2017 - Bachelors Student - Duke University 
+- [Albert Xue](https://asxue.github.io/) - Summer 2017 - Bachelors Student - Duke University 
     - Topic: Generative Adversarial Networks
     - Current: PhD Student in Bioinformatics at UCLA
 - Jeremy Poff - Summer 2017 - Bachelors Student - University of Tennessee
@@ -44,7 +50,7 @@ header-img: "img/about-bg-blue.jpg"
     - Current: Software Engineer
 - [Parker Mitchell](https://parker.mmtechonline.com/personal_site/) - Summer 2017 - Bachelors Student - University of Tennessee
     - Topic: Deep learning on FPGAs (Co-mentored w/ Catherine Schuman)
-    - Current: Senior Hardware Engineer at Microsoft
+    - Current: FPGA Engineer at Optiver
 - [Adam Terwilliger](https://www.linkedin.com/in/adamterwilliger/) - Summer 2016 - Bachelors Student - Grand Valley State University
     - Topic: Deep Learning Applied to Neutrino Detector Data
     - Current: Data Scientist at Rank One Computing
@@ -53,10 +59,16 @@ header-img: "img/about-bg-blue.jpg"
     - Current: Data scientist at U.S. Government
 
 # High School Students
+- [Kieran Barr](https://www.linkedin.com/in/vivaan-singhvi-02525027a) - Summer 2026 - Farragut High School (Knox County, TN)
+    - Topic: Adversarial AI Robustness (Co-mentored with Jack Hutchins)
+    - Current: High School Student
+- [Jonathan Bolme](https://www.linkedin.com/in/vivaan-singhvi-02525027a) - Summer 2026 - Farragut High School (Knox County, TN)
+    - Topic: Adversarial AI Robustness (Co-mentored with Jack Hutchins)
+    - Current: High School Student
 - [Vivaan Singhvi](https://www.linkedin.com/in/vivaan-singhvi-02525027a) - Summer 2024 - Farragut High School (Knox County, TN)
     - Topic: Adversarial Image Detection
     - Current: BS Student at University of Michigan  
-- Katie Nuchols - Summer 2018 - Clinton High School (Anderson County, TN)
+- [Katie Nuchols](https://www.linkedin.com/in/katie-nuchols-9b8136214/) - Summer 2018 - Clinton High School (Anderson County, TN)
     - Topic: Machine Learning Analysis of Summit Supercomputing Benchmark Data (Co-mentored with Catherine Schuman)
-    - Current: BS Student at University of Tennessee
+    - Current: BS CS Graduate from University of Tennessee
 
