@@ -13,6 +13,18 @@ Data Analytics, Deep Learning, Computer Vision, Knowledge Discovery, Text Analys
 High Performance Computing, GPU Programming.
 
 # Selected Publications <a size="8" color="#0000EE" href="/content/citations.bib">[Bibtex]</a>
+* **S. Young**, J. Brogan, C. Smith, E. Begoli, and A. Sadovnik, “Lantern: An interactive adversarial AI workbench,” CSIAC Journal (Online), vol. 9, no. 1, 2025.
+* M. Coletti, C. Gunaratne, **S. Young**, S. Varadarajan, R. Patton, and T. Potok, “Efficacy of using a dynamic length representation vs. a fixed-length for neuroarchitecture search,” in Proceedings of the Genetic and Evolutionary Computation Conference Companion, 2024, pp. 1888–1894.
+* B. P. Maldonado, B. C. Kaul, C. D. Schuman, and **S. R. Young**, “Reinforcement learning applied to dilute combustion control for increased fuel efficiency,” International Journal of Engine Research, vol. 25, no. 6, pp. 1157–1173, 2024.
+* V. Tombs, O. Kotevska, and **S. Young**, “Privacy amplification for episodic training methods,” Oak Ridge National Laboratory (ORNL), Oak Ridge, TN (United States), Tech. Rep., 2023.
+* F. Akbar et al., “Vertex finding in neutrino-nucleus interaction: A model architecture comparison,” Journal of Instrumentation, vol. 17, no. 08, T08013, 2022.
+* G. Cong, S.-H. Lim, and **S. Young**, “Augmenting graph convolution with distance preserving embedding for improved learning,” in 2022 IEEE International Conference on Data Mining Workshops (ICDMW), IEEE, 2022, pp. 23–30.
+* E. Herron, **S. R. Young**, and D. Rose, “Icdarts: Improving the stability of cyclic darts,” in 2022 21st IEEE International Conference on Machine Learning and Applications (ICMLA), IEEE, 2022, pp. 1055–1062.
+* B. P. Maldonado, B. C. Kaul, C. D. Schuman, **S. R. Young**, and J. P. Mitchell, “Next-cycle optimal dilute combustion control via online learning of cycle-to-cycle variability using kernel density estimators,” IEEE Transactions on Control Systems Technology, vol. 30, no. 6, pp. 2433–2449, 2022.
+* R. Patton et al., “Neuromorphic computing for scientific applications,” in 2022 IEEE/ACM Redefining Scalability for Diversely Heterogeneous Architectures Workshop (RSDHA), IEEE, 2022, pp. 22–28.
+* B. P. Maldonado, B. C. Kaul, C. D. Schuman, **S. R. Young**, and J. P. Mitchell, “Dilute combustion control using spiking neural networks,” SAE Technical Paper, Tech. Rep., 2021.
+* M. Parsa et al., “Accurate and accelerated neuromorphic network design leveraging a bayesian hyperparameter pareto optimization approach,” in International Conference on Neuromorphic Systems 2021, 2021, pp. 1–8.
+* C. D. Schuman, **S. R. Young**, B. P. Maldonado, and B. C. Kaul, “Real-time evolution and deployment of neuromorphic computing at the edge,” in 2021 12th International Green and Sustainable Computing Conference (IGSC), IEEE, 2021, pp. 1–8.
 * R. Archibald, M. Doucet, T. Johnston, **S. Young**, E. Yang, and W. Heller, “Classifying and analyzing small-angle scattering data using weighted k nearest neighbors machine learning techniques,” Journal of Applied Crystallography, 2020.
 * K. Hamilton, C. Schuman, **S. Young**, R. Bennink, N. Imam, and T. Humble, “Accelerating scientific computing in the post-moore’s era,” ACM Transactions on Parallel Computing (TOPC), 2020.
 * M. Parsa, C. Schuman, D. Rose, B. Kay, J. Mitchell, **S. Young**, R. Dellana, W. Severa, T. Potok, K. Roy, et al., “Hyperparameter optimization in binary communication networks for neuromorphic deployment,” arXiv preprint arXiv:2005.04171, 2020.
