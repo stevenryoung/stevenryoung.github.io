@@ -132,7 +132,9 @@ GPA: 3.88
 - Modified process for testing a product 
 
 # Honors
+- Secretary’s Honor Award - Department of Energy (January 2022)
 - ACM Gordon Bell Prize Finalist (June 2018)
+- R&D 100 Award - R&D Magazine (November 2018)
 - Oak Ridge National Laboratory
     - Technology Commercialization Award (December 2016)
     - Technology Commercialization Award (December 2014)
@@ -143,18 +145,24 @@ GPA: 3.88
     - Charles and Martha Sprankle Scholarship (2006-2007)
     - Alumni Valedictorian Scholarship (2005-2007)
     - James L. Howard Scholarship (2005-2006)
+ 
+# Patents
+- Maldonado Puente, Bryan P., Brian C. Kaul, Catherine D. Schuman, John Parker Mitchell, **Steven R. Young**. ”Combustion Control Using Spiking Neural Networks.” U.S. Patent 11,655,775, issued May 23, 2023.
+- Patton, Robert M., **Steven R. Young**, Derek C. Rose, Thomas P. Karnowski, Seung-Hwan Lim, Thomas E. Potok, and J. Travis Johnston. ”Optimizing neural networks.” U.S. Patent 11,429,865, issued August 30, 2022.
 
 # Professional Service
 - Frontiers in Big Data: Big Data and AI in High Energy Physics
     -Associate Editor (2019 – Present)
+- Supercomputing - Machine Learning Track
+    - Program Committee (2019, 2021-2023)
 - Machine Learning in HPC Environments (Supercomputing Workshop)
-    - Program Committee (2019 – Present)
+    - Program Committee (2019 – 2022)
     - Organizing Chair (2017 – 2018)
     - Program Chair (2015 – 2016)
 - OLCF Director’s Discretion Projects
     - Proposal Reviewer - Deep Learning Proposals (2017 – Present)
 - AAAI Conference on Artificial Intelligence
-    - Program Committee (2020)
+    - Program Committee (2021-2023)
 - High Performance Machine Learning Workshop
     - Workshop Committee (2019)
 - ACM Journal on Emerging Technologies in Computing Systems (JETC)
