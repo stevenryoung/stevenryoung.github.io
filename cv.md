@@ -86,7 +86,13 @@ GPA: 3.88
 
 # Experience
 
-### ORNL - Computational Data Analytics, Oak Ridge, TN (Dec. 2016 - Present)  
+### ORNL - Secure AI Research Group, Oak Ridge, TN (July 2026 - Present)  
+
+#### Group Leader
+- Conducting research and development in AI security.
+- Recruiting and developing staff to contribute to the AI security mission of the lab.
+
+### ORNL - Computational Data Analytics, Oak Ridge, TN (Dec. 2016 - June 2026)  
 
 #### Research Scientist
 - Developing methods for utlizing HPC for training deep networks for large science datasets
